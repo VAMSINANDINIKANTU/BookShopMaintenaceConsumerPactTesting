@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: dell
+Build-Jdk: 12.0.1
+Implementation-Title: bookshopmaintenanceapplication3
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.bookshopapp
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/bookshopmaintenanceapplication3
+Created-By: Maven Integration for Eclipse
+
